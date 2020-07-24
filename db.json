@@ -1,0 +1,44 @@
+{
+  "garagem": [
+    {
+      "id": 0,
+      "marca": "Ford",
+      "nitro": "sim",
+      "modelo": "Mustang GT",
+      "cor": "Laranja brilhante",
+      "roubado": "não",
+      "tracao": "4x4",
+      "hp": 200
+    },
+    {
+      "id": 1,
+      "marca": "Ferrari",
+      "nitro": "não",
+      "modelo": "360 moderna",
+      "cor": "vermelha",
+      "roubado": "sim",
+      "tracao": "FR",
+      "hp": 500
+    },
+    {
+      "id": 2,
+      "marca": "Fiat",
+      "nitro": "sim",
+      "modelo": "UNO",
+      "cor": "Cinza",
+      "roubado": "não",
+      "tracao": "8x8",
+      "hp": 2900
+    },
+    {
+      "marca": "teste",
+      "nitro": "teste",
+      "modelo": "teste",
+      "cor": "teste",
+      "roubado": "teste",
+      "tracao": "teste",
+      "hp": "teste",
+      "id": 3
+    }
+  ]
+}

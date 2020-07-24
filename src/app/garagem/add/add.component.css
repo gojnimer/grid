@@ -1,0 +1,10 @@
+input,button { 
+    display: block;
+    margin-top: 20px;
+    margin-left: 40%;
+    width: 200px;
+}
+
+button{
+    height:40px;
+}

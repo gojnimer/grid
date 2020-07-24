@@ -1,0 +1,10 @@
+<form [formGroup]="carroForm" (ngSubmit)='onSubmit()'>
+    <input type="text" placeholder="marca" formControlName="marca">
+    <input type="text" placeholder="modelo" formControlName="modelo">
+    <input type="text" placeholder="cor" formControlName="cor">
+    <input type="text" placeholder="tracao" formControlName="tracao" >
+    <input type="text" placeholder="hp" formControlName="hp">
+    <input type="text" placeholder="roubado" formControlName="roubado">
+    <input type="text" placeholder="nitro" formControlName="nitro">
+    <button type="submit">Adicionar carro</button>
+</form>
